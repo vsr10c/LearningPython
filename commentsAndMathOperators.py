@@ -48,3 +48,6 @@ ordOp2 = (6 % 4 * (7 + (7 + 2) * 3)) ** 2
 """
 # enter your code for "order of operations practice" between this line and the line below it----------------------------
 """
+# Printing values
+
+print(ordOp1,ordOp2)
